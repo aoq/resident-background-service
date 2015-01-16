@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">resident-background-service</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_notification">Service</string>
+    <string name="label_start">Start</string>
+    <string name="label_stop">Stop</string>
+
+</resources>
